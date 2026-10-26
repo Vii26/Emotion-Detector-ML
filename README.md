@@ -8,7 +8,7 @@ This project detects emotions in text using machine learning and deep learning m
 
 
 
-# Project Goal
+## Project Goal
 
 The goal of this project is to explore and compare traditional machine learning and deep learning approaches for multi-label emotion detection in text.
 
